@@ -58,3 +58,8 @@ body {
 .material-symbols-outlined{ 
     font-size: 55px !important;
 }
+
+.card a{
+    text-decoration: none;
+    color: inherit;
+}
